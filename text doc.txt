@@ -4,3 +4,6 @@ so now I can edit this easier
 This shouldn't be so bad
 I need to make sure that I know how to do this really well
 git and github 
+
+This is to check whether this branch can be pushed like this.
+
