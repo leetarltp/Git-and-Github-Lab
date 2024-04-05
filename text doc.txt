@@ -1,1 +1,6 @@
 now I need to figure out how to do this in git properly to ease the process of githubbing everything
+
+so now I can edit this easier 
+This shouldn't be so bad
+I need to make sure that I know how to do this really well
+git and github 
